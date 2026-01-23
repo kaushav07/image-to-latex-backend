@@ -56,6 +56,11 @@ For deployment, the key is added using **Render Environment Variables**.
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
 ## Author
 
 Kaushav Kumar
